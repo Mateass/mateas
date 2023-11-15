@@ -1,5 +1,5 @@
 ```js
-class ravgar {
+class mateas {
     constructor(options) {
         this.name = "alper",
         this.sex = "man",
